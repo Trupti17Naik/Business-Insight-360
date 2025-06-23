@@ -13,3 +13,22 @@ Provide actionable insights for Business across customer, product, market perfor
 4️⃣ Supply chain view: Provides data on forecast accuracy ,net error and abs error
 
 5️⃣ Executive view: provides market share trend compared to competitors,top customers and products by revenue.
+
+# key Learning:
+
+➡️ Creating measures using DAX language
+
+➡️Connecting data from different databases
+
+➡️Data Modelling
+
+➡️Data Cleaning
+
+➡️Creating page navigation with button
+
+➡️Creating data table using M language
+
+➡️Creating bookmarks to switch between two visuals
+
+➡️Conditional formatting on visuals 
+ 
